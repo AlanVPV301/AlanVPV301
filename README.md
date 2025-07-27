@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Alan! 👋
 
-<!--
-**AlanVPV301/AlanVPV301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cloud Support Engineer based in Brazil, specialized in SaaS products, networking and IAM!
 
-Here are some ideas to get you started:
+## 🚀 About Me
+During my trajectory so far, I have worked with various SaaS products (Atlassian Statuspage, Opsgenie, Jira, SailPoint Identity Security Cloud).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also have experience with networking configuration and troubleshooting, DNS, debugging, logging and observability/monitoring. 
+
+In this Profile I will be working on personal projects to improve my skills and best practices on topics involving DevOps, Site Reliability, and more.
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanpapazoglou)
+
+ 
+## 🛠 Skills
+Fluent English; Fluent Greek; Fluent Portuguese; APIs; REST; IAM; Cloud; Linux; Windows; OpenSearch; Splunk; Grafana; Nagios; Active Directory; Windows Server; SSO/SAML; OAuth; Azure/Entra; DNS; SSL/TLS; PowerShell; Bash; Python; Atlassian; ITSM; Jira; Identity Security Cloud (IdentityNow); SailPoint; Developer Tools; Debugging; Networking; SQL; JSON; Root Cause Analysis, Technical Operations; Analytical skills; Confluence.
